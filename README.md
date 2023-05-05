@@ -9,5 +9,7 @@ Receber uma cadeia sobre o alfabeto = {a, b, c, ..., x, y, z}, números = {0, 1,
 NumInt -> +10, -5, 0
 
 NumFloat -> +10.7, -10.2, 10.1
+![Atividade2](https://user-images.githubusercontent.com/83798719/236464776-99e1b1ef-e092-495d-825c-0bd3ca6460fc.png)
+
 ## Atividade 3
 ## Atividade 4
